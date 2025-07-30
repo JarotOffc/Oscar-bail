@@ -1,3 +1,4 @@
+# SUPPORT LID
 # Baileys - Typescript/Javascript WhatsApp Web API
 
 ### Important Note
